@@ -1,0 +1,9 @@
+.smaller-header {
+  height: 150px;
+}
+
+@media screen and (min-width: 768px) {
+  #header::before {
+    background: none;
+  }
+}
