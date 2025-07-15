@@ -1,6 +1,6 @@
 # Travel Agency
 
-Discover new destinations and plan your next adventure with the Travel Agency website! 🌎✈️
+Discover new destinations and plan your next adventure with the Travel Agency website!
 
 ## Overview
 
@@ -21,7 +21,15 @@ To get started, clone the repository:
 git clone https://github.com/Schwrop/Travel-Agency-Webpage.git
 ```
 
-Open `index.html` in your browser to view the site.
+Open `index.html` in your browser with a local web server. E.g. via the Live Server extension in VS Code editor.
+
+Live Server is a VS Code extension that:
+
+1. Starts a local web server on your computer.
+
+2. Serves your HTML, CSS, and JS files through a URL (like http://127.0.0.1:5500).
+
+3. Automatically reloads the browser whenever you save your file.
 
 ## Folder Structure
 
